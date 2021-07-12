@@ -11,6 +11,7 @@ theBtn.addEventListener("click", function () {
     inputValue.value ? inputValue.value : "_Empty Task_"
   );
 
+  
   newLi.classList.add("lis");
   times.time1 = new Date().toString();
   newLi.appendChild(newContent);
