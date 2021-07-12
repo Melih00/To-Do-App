@@ -12,6 +12,7 @@ body{
 h1{
     color: gray;
     margin-bottom: 20px;
+    font-size: 60px;
 }
 button{
     margin: auto;
@@ -31,14 +32,13 @@ ul{
     list-style-type: none;
 }
 li{
-    margin: 10px;
     width: 30%;
     height: 58px;
     border-radius: 10px;
     cursor: pointer;
     margin: auto;
     position: relative;
-    margin-top: 10px;
+    margin-top: 17px;
     color: black;
     border: 2px solid black;
     text-align: left;
