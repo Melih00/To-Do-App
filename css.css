@@ -71,7 +71,7 @@ input:focus, input:hover{
 }
 
 .inputs:checked {
-    background-color: rgba(166, 88, 166, 0.9);
+    background-color: rgba(166, 88, 167, 0.9);
 }
 li:hover{
     background-color: rgba(13, 13, 13, .98);

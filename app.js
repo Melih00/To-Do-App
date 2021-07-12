@@ -10,7 +10,6 @@ theBtn.addEventListener("click", function () {
   const newContent = document.createTextNode(
     inputValue.value ? inputValue.value : "_Empty Task_"
   );
-
   
   newLi.classList.add("lis");
   times.time1 = new Date().toString();
