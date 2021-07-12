@@ -40,7 +40,7 @@ li{
     position: relative;
     margin-top: 17px;
     color: black;
-    border: 2px solid black;
+    border: 6px solid black;
     text-align: left;
     padding: 8px 0px 7px 27px;
     background-color: rgba(197, 114, 197, 0.9);
@@ -51,7 +51,7 @@ input{
     border-style: none;
     width: 24%;
     height: 43px;
-    border: 2px solid black;
+    border: 6px solid black;
     background-color: rgba(82, 180, 204, 0.76);
 
 }
@@ -59,7 +59,7 @@ input{
 input:focus, input:hover{
     background-color: rgba(13, 13, 13, .98);
     color: white;
-    border: 2px dotted rgba(197, 114, 197, 0.9);
+    border: 6px dotted rgba(197, 114, 197, 0.9);
 }
 
 .inputs{
@@ -76,5 +76,5 @@ input:focus, input:hover{
 li:hover{
     background-color: rgba(13, 13, 13, .98);
     color: white;
-    border: 2px dotted rgba(166, 88, 166, 0.9);
+    border: 6px dotted rgba(166, 88, 166, 0.9);
 }
